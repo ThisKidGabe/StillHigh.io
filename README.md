@@ -1,6 +1,6 @@
 <img src="res/the-cake-is-a-lie.png" height="200px" />
 
-[Play on GitHub Pages]([https://thiskidgabe.github.io/StillHigh.io/])
+[Play on GitHub Pages](https://thiskidgabe.github.io/StillHigh.io/)
 
 Still High (Diabetes Parody)
 ===============
