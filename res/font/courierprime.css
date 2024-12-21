@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "CourierPrimeSans";
+    src: url("410f96d39c1cdb5c9aaf5fdca7ee7cd9.woff2") format("woff2"),
+         url("Arial-Rounded-MT-Bold-Bold.ttf") format("truetype");
+    font-weight: 600;
+}
